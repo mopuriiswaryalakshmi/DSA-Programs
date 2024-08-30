@@ -1,0 +1,4 @@
+With linkedlist odd indexes first and then even indexes
+With linkdelist get 1st mix 1st max, 2nd min 2nd max
+In array 0s, 1s, 2s order all 0s first, then 1s seconfd, then 2s third
+String with Alphates and symbols check if any symbol is missing, if missing return false
